@@ -1,0 +1,30 @@
+.foot {
+  background-color: rgb(54, 54, 54);
+  height: 200px;
+  text-align: center;
+}
+
+.list-inline {
+  display: flex;
+  /* padding: 100px 100px; */
+  justify-content: space-evenly;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-top: 6%;
+}
+
+.list-inline li {
+  display: inline-block;
+  list-style: none;
+  font-size: 40px;
+  color: rgb(155, 221, 169);
+}
+
+.foot a {
+  font-size: 40px;
+  color: rgb(155, 221, 169);
+}
+
+.foot-text {
+  color: rgb(184, 181, 181)
+}
